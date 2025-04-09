@@ -1,0 +1,15 @@
+# Ignore JetBrains IDE settings
+.idea/
+*.iml
+
+# Ignore virtual environment directory
+venv/
+
+# Other common ignores for Python projects
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
