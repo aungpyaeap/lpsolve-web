@@ -1,8 +1,8 @@
 ---
 title: My Gradio App
 emoji: 🚀  # Optional: Add an emoji to represent your app
-colorFrom: "#FF7F50"  # Optional: Starting color for the gradient
-colorTo: "#1E90FF"    # Optional: Ending color for the gradient
+colorFrom: "red"  # Optional: Starting color for the gradient
+colorTo: "green"    # Optional: Ending color for the gradient
 sdk: gradio            # The SDK you are using
 sdk_version: "3.0.0"  # Specify the version of Gradio you are using
 app_file: app.py      # The main file for your Gradio app
