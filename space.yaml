@@ -1,0 +1,6 @@
+title: Linear Programming Solver
+description: Linear programming solver Gradio app.
+license: mit
+tags:
+  - gradio
+  - lpsolve

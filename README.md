@@ -1,12 +1,14 @@
 ---
-title: My Gradio App
-emoji: 🚀  # Optional: Add an emoji to represent your app
-colorFrom: "red"  # Optional: Starting color for the gradient
-colorTo: "green"    # Optional: Ending color for the gradient
-sdk: gradio            # The SDK you are using
-sdk_version: "5.24.0"  # Specify the version of Gradio you are using
-app_file: app.py      # The main file for your Gradio app
-pinned: false          # Set to true if you want to pin the Space
+title: Linear Programming Solver
+emoji: 📈
+colorFrom: yellow
+colorTo: pink
+sdk: gradio
+sdk_version: 5.24.0
+app_file: app.py
+pinned: false
+license: mit
+short_description: lpsolve
 ---
 
 # Linear programming solver Gradio app
