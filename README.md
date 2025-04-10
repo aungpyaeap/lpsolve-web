@@ -22,3 +22,26 @@ To use this app, please follow these steps.
 5. Click the 'Submit' button to solve the linear programming problem.
 
 The app will display the optimization results, including the objective value, solution, number of variables, and number of constraints.
+
+## Components of Linear Programming
+The basic components of a linear programming(LP) problem.
+1. Decision Variables: Variables you want to determine to achieve the optimal solution.
+2. Objective Function: Mathematical equation that represents the goal you want to achieve.
+3. Constraints: Limitations or restrictions that your decision variables must follow.
+4. Non-Negativity Restrictions: Decision variables cannot be negative.
+
+## Example
+Maximize $3x + 4y$ subject to the following constraints.
+1. $x + 2y ≤ 14$
+2. $3x - y ≥ 0$
+3. $x - y ≤ 2$
+
+**Example usage.**
+```
+Variables: x, y
+Constraints: 
+x + 2y <= 14,
+3x - y >= 0,
+x - y <= 2
+Objective function: 3x + 4y
+```
